@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
-    "babel-register": "^6.8.0",
+    "babel-register": "^6.9.0",
     "eslint": "^3.0.1",
     "eslint-import-resolver-webpack": "^0.5.1",
     "eslint-plugin-import": "^2.0.0",
